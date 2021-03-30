@@ -1,6 +1,6 @@
-require "bootstrap/tagsinput/rails/version"
+require "bootstrap5/tagsinput/rails/version"
 
-module Bootstrap
+module Bootstrap5
   module Tagsinput
     module Rails
       class Engine < ::Rails::Engine
