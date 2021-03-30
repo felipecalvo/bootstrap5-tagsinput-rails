@@ -1,20 +1,16 @@
-# Bootstrap::Tagsinput::Rails
+# Bootstrap5::Tagsinput::Rails
 
-Original Git source - https://github.com/timschlechter/bootstrap-tagsinput
-
-To gemify the assets of `bootstrap-tagsinput` jQuery plugin for Rails >= 3.1
-
-[![Gem Version](https://badge.fury.io/rb/bootstrap-tagsinput-rails.png)](http://badge.fury.io/rb/bootstrap-tagsinput-rails)
+Bootstrap 5 compatible bootstrap-tagsinput-rails. Uses bootstrap-tagsinput 0.8.
 
 ## Compatibility
 
-Designed for Bootstrap 2.3.2 and 3
+Tested on Bootstrap 5.0.0-beta3
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'bootstrap-tagsinput-rails'
+    gem 'bootstrap5-tagsinput-rails'
 
 And then execute:
 
@@ -22,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install bootstrap-tagsinput-rails
+    $ gem install bootstrap5-tagsinput-rails
 
 ## Usage
 
@@ -59,3 +55,12 @@ That's it
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+## Credits
+
+[bootstrap-tagsinput](https://github.com/bootstrap-tagsinput/bootstrap-tagsinput) - Original source
+
+[bootstrap-tagsinput-rails](https://github.com/luciuschoi/bootstrap-tagsinput-rails) - Original gemified Rails source
+
+[Tim Ville's bootstrap-tagsinput-rails fork](https://github.com/TimVille/bootstrap-tagsinput-rails) - Bootstrap 4 compatible version

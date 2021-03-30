@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Felipe Calvo"]
   spec.email         = ["felipecalvo239@gmail.com"]
   spec.homepage      = "http://github.com/felipecalvo/bootstrap5-tagsinput-rails"
-  spec.summary       = "Bootstrap 5 compatible bootstrap-tagsinput"
+  spec.summary       = "Bootstrap 5 compatible bootstrap-tagsinput-rails"
   spec.license       = "MIT"
 
   spec.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
