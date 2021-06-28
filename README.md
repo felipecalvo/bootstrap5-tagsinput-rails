@@ -4,7 +4,7 @@ Bootstrap 5 compatible bootstrap-tagsinput-rails. Uses bootstrap-tagsinput 0.8.
 
 ## Compatibility
 
-Tested on Bootstrap 5.0.0-beta3
+Tested on Bootstrap 5.0.1
 
 ## Installation
 
